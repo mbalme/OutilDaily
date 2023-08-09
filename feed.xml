@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Les Joies du Code &#8211; Humour de développeurs : gifs, memes, blagues</title>
+	<atom:link href="https://lesjoiesducode.fr/feed" rel="self" type="application/rss+xml" />
+	<link>https://lesjoiesducode.fr</link>
+	<description></description>
+	<lastBuildDate>Wed, 25 May 2022 10:07:43 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>https://lesjoiesducode.fr/wp-content/uploads/2020/03/cropped-59760110_2118870124856761_2769282087964901376_n-32x32.png</url>
+	<title>Les Joies du Code &#8211; Humour de développeurs : gifs, memes, blagues</title>
+	<link>https://lesjoiesducode.fr</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">146012768</site>	<item>
+		<title>Quand le nouveau me demande où se trouve la doc technique du projet</title>
+		<link>https://lesjoiesducode.fr/quand-le-nouveau-me-demande-ou-se-trouve-la-doc-technique-du-projet</link>
+					<comments>https://lesjoiesducode.fr/quand-le-nouveau-me-demande-ou-se-trouve-la-doc-technique-du-projet#respond</comments>
+		
+		<dc:creator><![CDATA[Les Joies du Code]]></dc:creator>
+		<pubDate>Wed, 25 May 2022 12:08:53 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lesjoiesducode.fr/?p=22498</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><video autoplay loop muted playsinline><source src="https://lesjoiesducode.fr/content/046/emETWPM.webm" type="video/webm"><source src="https://lesjoiesducode.fr/content/046/emETWPM.mp4" type="video/mp4"><object data="https://lesjoiesducode.fr/content/046/emETWPM.gif" type="image/gif"></object></video></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lesjoiesducode.fr/quand-le-nouveau-me-demande-ou-se-trouve-la-doc-technique-du-projet/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://lesjoiesducode.fr/content/046/emETWPM.webm" length="0" type="video/webm" />
+<enclosure url="https://lesjoiesducode.fr/content/046/emETWPM.mp4" length="89797" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">22498</post-id>	</item>
+		<item>
+		<title>Ça fait beaucoup trop peur</title>
+		<link>https://lesjoiesducode.fr/tf2-fear-no-man-cors-policy-meme-developpeur</link>
+					<comments>https://lesjoiesducode.fr/tf2-fear-no-man-cors-policy-meme-developpeur#respond</comments>
+		
+		<dc:creator><![CDATA[Les Joies du Code]]></dc:creator>
+		<pubDate>Wed, 25 May 2022 11:00:46 +0000</pubDate>
+				<category><![CDATA[Memes]]></category>
+		<guid isPermaLink="false">https://lesjoiesducode.fr/?p=22507</guid>
+
+					<description><![CDATA[🔴 En live sur Twitch à 14h ! 😉 Rejoignez-moi pour chiller et faire des memes de dev en direct, mais aussi prendre votre place dans l'incroyable classement des viewers ! 🏆💪]]></description>
+										<content:encoded><![CDATA[<p><img src="https://lesjoiesducode.fr/content/046/TF2-fear-no-man-CORS-policy-Phyrohy.jpg" /></p>
+<p>🔴 <a href="https://twitch.tv/lesjoiesducode"><strong>En live sur Twitch à 14h</strong></a> ! 😉 Rejoignez-moi pour chiller et faire des memes de dev en direct, mais aussi prendre votre place dans <a href="https://lesjoiesducode.fr/classement-twitch-memecredi" rel="noopener" target="_blank">l'incroyable classement des viewers</a> ! 🏆💪</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lesjoiesducode.fr/tf2-fear-no-man-cors-policy-meme-developpeur/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">22507</post-id>	</item>
+		<item>
+		<title>Quand j&#039;ai le go pour supprimer l&#039;ancienne version du site</title>
+		<link>https://lesjoiesducode.fr/quand-jai-le-go-pour-supprimer-lancienne-version-du-site</link>
+					<comments>https://lesjoiesducode.fr/quand-jai-le-go-pour-supprimer-lancienne-version-du-site#respond</comments>
+		
+		<dc:creator><![CDATA[Les Joies du Code]]></dc:creator>
+		<pubDate>Wed, 25 May 2022 09:05:21 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lesjoiesducode.fr/?p=22495</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><video autoplay loop muted playsinline><source src="https://lesjoiesducode.fr/content/046/MfmCtWe.webm" type="video/webm"><source src="https://lesjoiesducode.fr/content/046/MfmCtWe.mp4" type="video/mp4"><object data="https://lesjoiesducode.fr/content/046/MfmCtWe.gif" type="image/gif"></object></video></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lesjoiesducode.fr/quand-jai-le-go-pour-supprimer-lancienne-version-du-site/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://lesjoiesducode.fr/content/046/MfmCtWe.webm" length="73447" type="video/webm" />
+<enclosure url="https://lesjoiesducode.fr/content/046/MfmCtWe.mp4" length="81653" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">22495</post-id>	</item>
+		<item>
+		<title>Quand on me demande de créer un utilisateur SQL pour le stagiaire</title>
+		<link>https://lesjoiesducode.fr/quand-on-me-demande-de-creer-un-utilisateur-sql-pour-le-stagiaire</link>
+					<comments>https://lesjoiesducode.fr/quand-on-me-demande-de-creer-un-utilisateur-sql-pour-le-stagiaire#respond</comments>
+		
+		<dc:creator><![CDATA[Les Joies du Code]]></dc:creator>
+		<pubDate>Tue, 24 May 2022 14:00:30 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lesjoiesducode.fr/?p=22487</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><video autoplay loop muted playsinline><source src="https://lesjoiesducode.fr/content/034/yXwg9sr.webm" type="video/webm"><source src="https://lesjoiesducode.fr/content/034/yXwg9sr.mp4" type="video/mp4"><object data="https://lesjoiesducode.fr/content/034/yXwg9sr.gif" type="image/gif"></object></video></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lesjoiesducode.fr/quand-on-me-demande-de-creer-un-utilisateur-sql-pour-le-stagiaire/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://lesjoiesducode.fr/content/034/yXwg9sr.webm" length="253932" type="video/webm" />
+<enclosure url="https://lesjoiesducode.fr/content/034/yXwg9sr.mp4" length="712500" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">22487</post-id>	</item>
+		<item>
+		<title>Quand je tape git ass au lieu de git add</title>
+		<link>https://lesjoiesducode.fr/tape-git-ass-au-lieu-de-git-add</link>
+					<comments>https://lesjoiesducode.fr/tape-git-ass-au-lieu-de-git-add#respond</comments>
+		
+		<dc:creator><![CDATA[Les Joies du Code]]></dc:creator>
+		<pubDate>Tue, 24 May 2022 13:00:54 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lesjoiesducode.fr/?p=22484</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><video autoplay loop muted playsinline><source src="https://lesjoiesducode.fr/content/046/vEdexGY.webm" type="video/webm"><source src="https://lesjoiesducode.fr/content/046/vEdexGY.mp4" type="video/mp4"><object data="https://lesjoiesducode.fr/content/046/vEdexGY.gif" type="image/gif"></object></video></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lesjoiesducode.fr/tape-git-ass-au-lieu-de-git-add/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://lesjoiesducode.fr/content/046/vEdexGY.webm" length="298371" type="video/webm" />
+<enclosure url="https://lesjoiesducode.fr/content/046/vEdexGY.mp4" length="248672" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">22484</post-id>	</item>
+		<item>
+		<title>C&#039;est quand tu veux tu me dis</title>
+		<link>https://lesjoiesducode.fr/honest-work-assis-stagiaire-debloquer-meme-developpeur</link>
+					<comments>https://lesjoiesducode.fr/honest-work-assis-stagiaire-debloquer-meme-developpeur#respond</comments>
+		
+		<dc:creator><![CDATA[Les Joies du Code]]></dc:creator>
+		<pubDate>Tue, 24 May 2022 12:00:45 +0000</pubDate>
+				<category><![CDATA[Memes]]></category>
+		<guid isPermaLink="false">https://lesjoiesducode.fr/?p=22491</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img src="https://lesjoiesducode.fr/content/046/honest-work-assis-stagiaire-Seb.jpg" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lesjoiesducode.fr/honest-work-assis-stagiaire-debloquer-meme-developpeur/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">22491</post-id>	</item>
+		<item>
+		<title>Quand on réalise beaucoup trop tard qu&#039;on s&#039;est tous trompé d&#039;environnement pour notre livraison</title>
+		<link>https://lesjoiesducode.fr/quand-on-realise-beaucoup-trop-tard-quon-sest-tous-trompe-denvironnement-pour-notre-livraison</link>
+					<comments>https://lesjoiesducode.fr/quand-on-realise-beaucoup-trop-tard-quon-sest-tous-trompe-denvironnement-pour-notre-livraison#respond</comments>
+		
+		<dc:creator><![CDATA[Les Joies du Code]]></dc:creator>
+		<pubDate>Tue, 24 May 2022 09:00:21 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lesjoiesducode.fr/?p=22481</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><video autoplay loop muted playsinline><source src="https://lesjoiesducode.fr/content/018/im5BAc0sgAIou.webm" type="video/webm"><source src="https://lesjoiesducode.fr/content/018/im5BAc0sgAIou.mp4" type="video/mp4"><object data="https://lesjoiesducode.fr/content/018/im5BAc0sgAIou.gif" type="image/gif"></object></video></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lesjoiesducode.fr/quand-on-realise-beaucoup-trop-tard-quon-sest-tous-trompe-denvironnement-pour-notre-livraison/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://lesjoiesducode.fr/content/018/im5BAc0sgAIou.webm" length="185864" type="video/webm" />
+<enclosure url="https://lesjoiesducode.fr/content/018/im5BAc0sgAIou.mp4" length="139856" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">22481</post-id>	</item>
+		<item>
+		<title>Quand mon code fonctionne du premier coup</title>
+		<link>https://lesjoiesducode.fr/quand-mon-code-fonctionne-du-premier-coup-15</link>
+					<comments>https://lesjoiesducode.fr/quand-mon-code-fonctionne-du-premier-coup-15#respond</comments>
+		
+		<dc:creator><![CDATA[Les Joies du Code]]></dc:creator>
+		<pubDate>Tue, 24 May 2022 08:00:16 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lesjoiesducode.fr/?p=22478</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><video autoplay loop muted playsinline><source src="https://lesjoiesducode.fr/content/046/oUVVzYr.webm" type="video/webm"><source src="https://lesjoiesducode.fr/content/046/oUVVzYr.mp4" type="video/mp4"><object data="https://lesjoiesducode.fr/content/046/oUVVzYr.gif" type="image/gif"></object></video></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lesjoiesducode.fr/quand-mon-code-fonctionne-du-premier-coup-15/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://lesjoiesducode.fr/content/046/oUVVzYr.webm" length="68595" type="video/webm" />
+<enclosure url="https://lesjoiesducode.fr/content/046/oUVVzYr.mp4" length="104579" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">22478</post-id>	</item>
+		<item>
+		<title>Quand on me lance sur une nouvelle mission sans me donner aucun détail</title>
+		<link>https://lesjoiesducode.fr/quand-on-me-lance-sur-une-nouvelle-mission-sans-me-donner-aucun-detail</link>
+					<comments>https://lesjoiesducode.fr/quand-on-me-lance-sur-une-nouvelle-mission-sans-me-donner-aucun-detail#respond</comments>
+		
+		<dc:creator><![CDATA[Les Joies du Code]]></dc:creator>
+		<pubDate>Mon, 23 May 2022 14:00:31 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://lesjoiesducode.fr/?p=22459</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><video autoplay loop muted playsinline><source src="https://lesjoiesducode.fr/content/032/WIP0w.webm" type="video/webm"><source src="https://lesjoiesducode.fr/content/032/WIP0w.mp4" type="video/mp4"><object data="https://lesjoiesducode.fr/content/032/WIP0w.gif" type="image/gif"></object></video></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lesjoiesducode.fr/quand-on-me-lance-sur-une-nouvelle-mission-sans-me-donner-aucun-detail/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://lesjoiesducode.fr/content/032/WIP0w.webm" length="106979" type="video/webm" />
+<enclosure url="https://lesjoiesducode.fr/content/032/WIP0w.mp4" length="325956" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">22459</post-id>	</item>
+		<item>
+		<title>Comment on fait des larmes en CSS ?</title>
+		<link>https://lesjoiesducode.fr/smartphone-fold-developpeurs-web-css-meme</link>
+					<comments>https://lesjoiesducode.fr/smartphone-fold-developpeurs-web-css-meme#respond</comments>
+		
+		<dc:creator><![CDATA[Les Joies du Code]]></dc:creator>
+		<pubDate>Mon, 23 May 2022 12:00:55 +0000</pubDate>
+				<category><![CDATA[Memes]]></category>
+		<guid isPermaLink="false">https://lesjoiesducode.fr/?p=22462</guid>
+
+					<description><![CDATA[OC : reddit]]></description>
+										<content:encoded><![CDATA[<p><img src="https://lesjoiesducode.fr/content/046/smartphone-fold-devs-web.jpg" /></p>
+<p>OC : reddit</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lesjoiesducode.fr/smartphone-fold-developpeurs-web-css-meme/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">22462</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Mise en cache de page à l’aide de disk: enhanced 
+Chargement lent (feed)
+Mibnifié utilisant disk
+
+Served from: lesjoiesducode.fr @ 2022-05-25 14:12:32 by W3 Total Cache
+-->
